@@ -1,4 +1,4 @@
-# Quinn Albright-quinnalbright@gmail.com (858)381-7555
+# Quinn Albright - quinnalbright@gmail.com (858)381-7555
 SUMMARY:
 3.93 GPA Honors Institute Student at Grand Canyon University on track to graduate with Bachelor of Science in Finance and Economics complete with Spanish Language minor in December of 2017; Highly driven, competitive individual with multi-industry knowledge and experience.
 
