@@ -1,8 +1,8 @@
 # Quinn Albright - quinnalbright@gmail.com (858)381-7555
-SUMMARY:
-3.93 GPA Honors Institute Student at Grand Canyon University on track to graduate with Bachelor of Science in Finance and Economics complete with Spanish Language minor in December of 2017; Highly driven, competitive individual with multi-industry knowledge and experience.
+<h3>SUMMARY:</h3>
+<body>3.93 GPA Honors Institute Student at Grand Canyon University on track to graduate with Bachelor of Science in Finance and Economics complete with Spanish Language minor in December of 2017; Highly driven, competitive individual with multi-industry knowledge and experience.</body>
 
-EDUCATION AND COURSEWORK:   
+<h3>EDUCATION AND COURSEWORK: </h3>  
  
 August 2014-Present  
 Current Student: Grand Canyon University - Phoenix, AZ
@@ -24,7 +24,7 @@ June 2014: High School Diploma: GPA 4.1
                                                             
  
  
- EXPERIENCE:
+<h3> EXPERIENCE:</h3>
  
 ·         Contracts Intern at Leidos (Summer 2017)-Managed potential and current contracts for civil division of Fortune 500 government and commercial contracting and consulting firm 
 ·         Waiter at Grand Canyon Golf Course Restaurant (Jan 2016-current)-Restaurant management 
