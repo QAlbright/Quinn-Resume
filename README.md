@@ -4,9 +4,9 @@
 
 <h3>EDUCATION AND COURSEWORK: </h3>  
  
-August 2014-Present  
-Current Student: Grand Canyon University - Phoenix, AZ
-Economics and Finance Major with a Minor in Entrepreneurial Studies and Spanish Language minor
+<i> August 2014-Present </i>  
+<p> Current Student: Grand Canyon University - Phoenix, AZ</p>
+<p>Economics and Finance Major with a Minor in Entrepreneurial Studies and Spanish Language minor</p>
 
 Member of College Honors Institute
 
