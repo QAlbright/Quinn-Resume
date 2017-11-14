@@ -5,13 +5,14 @@
 <h3>EDUCATION AND COURSEWORK: </h3>  
 
 <i> August 2014-Present: </i>  
-<p> Current Student: Grand Canyon University - Phoenix, AZ</p>
-<p>Economics and Finance Major with a Minor in Entrepreneurial Studies and Spanish Language minor</p>
-<p>Member of College Honors Institute</p>
-<p>Colangelo Scholar (Commended student in College of Business)</p>
-<p>National Society of Collegiate Scholars award recipient</p>
-<p>(2016) Studied at University of Pais Vasco (Spain) school of international business</p>
-
+<ul>
+<li> Current Student: Grand Canyon University - Phoenix, AZ</li>
+<li>Economics and Finance Major with a Minor in Entrepreneurial Studies and Spanish Language minor</li>
+<li>Member of College Honors Institute</li>
+<li>Colangelo Scholar (Commended student in College of Business)</li>
+<li>National Society of Collegiate Scholars award recipient</li>
+<li>(2016) Studied at University of Pais Vasco (Spain) school of international business</li>
+</ul>
  
 
 <i>June 2014: </i>
