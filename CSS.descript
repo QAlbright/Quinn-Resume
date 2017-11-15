@@ -3,7 +3,3 @@ h1 {
   font-family: Palatino, 'Palatino Linotype', serif;
 color:rgb(216,218,190);
 }
-
-h2 {
-	font-size: 32px;
-}
