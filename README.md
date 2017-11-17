@@ -1,5 +1,8 @@
 <html> 
+<head>
   <link rel="stylesheet" "type=css" href="CSS.descript">
+  </head>
+  <body>
  <h1> Quinn Albright - quinnalbright@gmail.com (858)381-7555</h1>
 <h3>SUMMARY:</h3>
 <body>3.93 GPA Honors Institute Student at Grand Canyon University on track to graduate with Bachelor of Science in Finance and Economics complete with Spanish Language minor in December of 2017; Highly driven, competitive individual with multi-industry knowledge and experience.</body>
@@ -41,5 +44,6 @@
 <li>S.A.F.E. Management security staff for Super Bowl XLIX-Performed basic security and communications function for events surrounding Super Bowl</li>
 <li>Maintenance and landscaping worker (June-August 2014)-Residential landscaping</li>
 </ul>
+</body>
 </html>
 
